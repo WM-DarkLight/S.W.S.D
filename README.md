@@ -741,3 +741,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Star Wars and all related properties are owned by Lucasfilm Ltd. and The Walt Disney Company
 - LCARS interface inspired by Star Trek's Library Computer Access/Retrieval System
 - Built with Next.js, TypeScript, Tailwind CSS, and Framer Motion
+
+
+![Screenshot 2025-04-14 160427](https://github.com/user-attachments/assets/cd647458-12e9-44fa-810e-2a23f680867a)
+
+![Screenshot 2025-04-14 160423](https://github.com/user-attachments/assets/f86d5d14-218b-4fb3-9085-14affe132fa0)
+
+![Screenshot 2025-04-14 160418](https://github.com/user-attachments/assets/a17c5672-8319-49b0-8038-1b4338a4882a)
